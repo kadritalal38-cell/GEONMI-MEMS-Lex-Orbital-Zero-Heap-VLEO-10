@@ -1,4 +1,4 @@
-# 🛰️ GEONMI-MEMS Lex-Orbital: A Zero-Heap Industrial Kernel for VLEO Satellites
+# 🛰️ GEONMI-MEMS Lex-Orbital- Zero-Heap Industrial Kernel for VLEO Satellites
 ### **Real-Time Orbit Propagator & Next-Gen Satellite Constellation Core**
 > **Author & Sole Proprietor:** Mohamed Talal Kadri  
 > *Optimized Real-Time Edition (Sync500 Architecture)*
